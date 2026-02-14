@@ -14,7 +14,6 @@ Visually impaired people often struggle to detect obstacles and may rely on othe
    - **Tactile cues** for the cane (vibration patterns)
 
 ## What is in this repository
-This repo is a *contest-friendly prototype scaffold*:
 - A runnable **Python demo** (webcam → detection → danger scoring → TTS)
 - Clear docs (user stories, architecture, ethics/privacy, demo script)
 - A clean structure so you can extend it into:
