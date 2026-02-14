@@ -1,0 +1,16 @@
+{
+  "camera_index": 0,
+  "score_threshold": 0.4,
+  "max_results": 10,
+  "danger": {
+    "near_area_ratio": 0.12,
+    "medium_area_ratio": 0.06,
+    "near_vibration_ms": 450,
+    "medium_vibration_ms": 250,
+    "cooldown_sec": 1.2
+  },
+  "tts": {
+    "enabled": true,
+    "rate": 170
+  }
+}
